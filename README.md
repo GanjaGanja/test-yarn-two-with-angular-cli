@@ -1,1 +1,1 @@
-"# test-yarn-two-with-angular-cli" 
+# test-yarn-two-with-angular-cli
