@@ -1,6 +1,6 @@
 {
-  "name": "test-ng-nine-app",
-  "version": "0.0.0",
+  "name": "test-yarn-two-with-angular-cli",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
